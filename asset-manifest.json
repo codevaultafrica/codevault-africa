@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codevault-africa/static/css/main.1726547c.css",
+    "main.js": "/codevault-africa/static/js/main.b1c4fc87.js",
+    "index.html": "/codevault-africa/index.html",
+    "main.1726547c.css.map": "/codevault-africa/static/css/main.1726547c.css.map",
+    "main.b1c4fc87.js.map": "/codevault-africa/static/js/main.b1c4fc87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1726547c.css",
+    "static/js/main.b1c4fc87.js"
+  ]
+}
